@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Gaurav Kumar Jha
 
-<!--
-**gauravvjhaa/gauravvjhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Currently learning:**
+- App development
+- Machine Learning algorithms
 
-Here are some ideas to get you started:
+🔭 **Working on:**
+- Flutter & Firebase apps
+- AI/ML projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me:**
+- Email: [gauravkumarjha306@cic.du.ac.in](mailto:gauravkumarjha306@cic.du.ac.in)
+- LinkedIn: [Gaurav Jha](https://linkedin.com/in/gauravvjhaa)
+
+💻 **Based in:** Delhi, India
