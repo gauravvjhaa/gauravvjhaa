@@ -1,15 +1,8 @@
-# Hi there! 👋 I'm Gaurav Kumar Jha
+# Hi, I'm Gaurav
 
-🌱 **Currently learning:**
-- App development
-- Machine Learning algorithms
-
-🔭 **Working on:**
-- Flutter & Firebase apps
-- AI/ML projects
+My interests include Mobile and web apps development, Artificial intelligence, Competitive programming and core computer science.
 
 📫 **Reach me:**
 - Email: [gauravkumarjha306@cic.du.ac.in](mailto:gauravkumarjha306@cic.du.ac.in)
 - LinkedIn: [Gaurav Jha](https://linkedin.com/in/gauravvjhaa)
 
-💻 **Based in:** Delhi, India
